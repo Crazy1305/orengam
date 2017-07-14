@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/entity/Tank.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/test/ru/orengam/main/tests/GetPatternTest.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/services/SocketReader.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/requests/BaseRequest.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/responses/BaseResponse.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/entity/Nozzle.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/entity/Pump.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/entity/PumpList.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/requests/RequestType.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/entity/Petroleum.java</file>
+            <file>file:/D:/My/Projects/projects/AzsConnector/src/ru/orengam/responses/ResponseType.java</file>
+        </group>
+    </open-files>
+</project-private>
